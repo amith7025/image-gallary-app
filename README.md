@@ -18,20 +18,22 @@ A simple React-based Image Gallery app that allows users to add and remove image
 ## Technologies Used
 
 - React
-- [Any additional libraries or tools you used]
+- html
+- css
+- javascript
 
 ## Installation
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/react-image-gallery.git
+    git clone https://github.com/amith7025/image-gallery-app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd react-image-gallery
+    cd image-gallary-app
     ```
 
 3. Install dependencies:
