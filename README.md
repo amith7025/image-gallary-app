@@ -1,6 +1,6 @@
 # React Image Gallery App
 
-![App Screenshot](link-to-screenshot.png)
+
 
 A simple React-based Image Gallery app that allows users to add and remove images.
 
